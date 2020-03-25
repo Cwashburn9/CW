@@ -1,5 +1,5 @@
 {
-  "name": "CW",
+  "name": "mdbootstrap",
   "version": "4.14.1",
   "main": "dist/js/mdb.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "https://cwashburn9.github.io/CW/"
   },
   "author": "Caitlin Washburn",
-  "license": "",
+  "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.1.2",
